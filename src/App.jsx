@@ -42,9 +42,9 @@ const App = () => {
   };
 
   return (
-    <div class=''>
+    <div>
       <div class="container">
-        <p className='Header text-center mt-5'>
+        <p className='Header text-center mt-5 rounded-pill border border border-black'>
           <h2>Seguimiento de Gastos</h2>
         </p>
         <div class="row">
